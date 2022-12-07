@@ -1,0 +1,24 @@
+$ cd /
+$ ls
+dir cmjgvh
+dir czrzl
+dir fcbt
+dir hdh
+259661 hjsbd.mzp
+dir jgrdd
+dir lqblqtng
+dir pgvmpmn
+dir pqqcvcm
+dir zglbptq
+$ cd cmjgvh
+$ ls
+dir hdh
+134565 hdh.sjv
+dir hgrpfmt
+282147 mjtq.ffd
+42343222 rvmzv.rtb
+dir sjgvbd
+31468 wgtjmb.thf
+$ cd hdh
+$ ls
+267125 htplc.gdw
